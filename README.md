@@ -7,6 +7,14 @@ The model created after 30 minutes of iteration (around 8000 iterations) is 97.3
 
 This series on the basics of Neural Networking also helped me a lot : https://youtu.be/aircAruvnKk
 
+## use
+
+download datasets from the link,
+
+use `python3 train.py` to train - it will finish after 10k iterations
+
+you can also visualize the training process on localhost
+`tensorboard --logdir=graphs/ --port=6006` (it will appear in localhost on your browser)
 
 
 
