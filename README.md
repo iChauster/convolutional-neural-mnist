@@ -9,7 +9,7 @@ This series on the basics of Neural Networking also helped me a lot : https://yo
 
 ## use
 
-download datasets from the link,
+download datasets from the link, make sure you `pip install tensorflow`
 
 use `python3 train.py` to train - it will finish after 10k iterations
 
